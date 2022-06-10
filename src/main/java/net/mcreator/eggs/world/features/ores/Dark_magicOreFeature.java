@@ -46,7 +46,7 @@ public class Dark_magicOreFeature extends OreFeature {
 		CONFIGURED_FEATURE = FeatureUtils.register("eggs:dark_magic_ore", FEATURE,
 				new OreConfiguration(Dark_magicOreFeatureRuleTest.INSTANCE, EggsModBlocks.DARK_MAGIC_ORE.get().defaultBlockState(), 8));
 		PLACED_FEATURE = PlacementUtils.register("eggs:dark_magic_ore", CONFIGURED_FEATURE, List.of(CountPlacement.of(8), InSquarePlacement.spread(),
-				HeightRangePlacement.uniform(VerticalAnchor.absolute(1), VerticalAnchor.absolute(31)), BiomeFilter.biome()));
+				HeightRangePlacement.uniform(VerticalAnchor.absolute(1), VerticalAnchor.absolute(12)), BiomeFilter.biome()));
 		return FEATURE;
 	}
 
@@ -83,7 +83,7 @@ public class Dark_magicOreFeature extends OreFeature {
 
 		public boolean test(BlockState blockAt, Random random) {
 			if (base_blocks == null) {
-				base_blocks = List.of(Blocks.STONE);
+				base_blocks = List.of(Blocks.STONE, Blocks.DEEPSLATE);
 			}
 			return base_blocks.contains(blockAt.getBlock());
 		}
