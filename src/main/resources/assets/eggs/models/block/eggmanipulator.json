@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "eggs:blocks/egg_maipulator_sides_bottom",
+    "up": "eggs:blocks/egg_manipulator_top",
+    "north": "eggs:blocks/egg_maipulator_sides_bottom",
+    "east": "eggs:blocks/egg_maipulator_sides_bottom",
+    "south": "eggs:blocks/egg_maipulator_sides_bottom",
+    "west": "eggs:blocks/egg_maipulator_sides_bottom",
+    "particle": "eggs:blocks/egg_maipulator_sides_bottom"
+  }
+}

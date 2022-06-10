@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "eggs:block/dark_magic_block"
+    }
+  }
+}

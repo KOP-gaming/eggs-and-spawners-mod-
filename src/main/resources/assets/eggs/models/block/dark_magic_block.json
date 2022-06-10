@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "eggs:blocks/dark_magic_ore_block",
+    "particle": "eggs:blocks/dark_magic_ore_block"
+  }
+}

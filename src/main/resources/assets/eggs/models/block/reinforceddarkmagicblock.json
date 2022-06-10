@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "eggs:blocks/reinforced",
+    "particle": "eggs:blocks/reinforced"
+  }
+}

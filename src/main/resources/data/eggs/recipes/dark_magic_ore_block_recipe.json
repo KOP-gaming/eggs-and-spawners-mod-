@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "eggs:dark_magic_ingot"
+    },
+    "1": {
+      "item": "eggs:dark_magic_ingot"
+    },
+    "2": {
+      "item": "eggs:dark_magic_ingot"
+    },
+    "3": {
+      "item": "eggs:dark_magic_ingot"
+    },
+    "4": {
+      "item": "eggs:dark_magic_ingot"
+    },
+    "5": {
+      "item": "eggs:dark_magic_ingot"
+    },
+    "6": {
+      "item": "eggs:dark_magic_ingot"
+    },
+    "7": {
+      "item": "eggs:dark_magic_ingot"
+    },
+    "8": {
+      "item": "eggs:dark_magic_ingot"
+    }
+  },
+  "result": {
+    "item": "eggs:dark_magic_block",
+    "count": 1
+  }
+}
