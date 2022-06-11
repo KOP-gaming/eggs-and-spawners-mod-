@@ -22,7 +22,7 @@
         "value": "Items.IRON_INGOT"
       },
       {
-        "value": "Items.SPAWN_EGG#93"
+        "value": "Items.TURTLE_SPAWN_EGG"
       },
       {
         "value": "Items.IRON_INGOT"
@@ -31,16 +31,16 @@
         "value": "CUSTOM:Dark_magicIngot"
       },
       {
-        "value": "Items.BEEF"
+        "value": "Items.BONE"
       },
       {
         "value": "CUSTOM:Dark_magicIngot"
       }
     ],
     "recipeReturnStack": {
-      "value": "Items.SPAWN_EGG#92"
+      "value": "Items.SPAWN_EGG#95"
     },
-    "name": "cow",
+    "name": "wolf",
     "namespace": "mod"
   }
 }

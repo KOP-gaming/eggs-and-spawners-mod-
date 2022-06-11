@@ -199,6 +199,126 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cow"
+    },
+    {
+      "name": "Sheep",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sheep"
+    },
+    {
+      "name": "Rabbit",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rabbit"
+    },
+    {
+      "name": "Mooshroom",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mooshroom"
+    },
+    {
+      "name": "Cod",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cod"
+    },
+    {
+      "name": "Salmon",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "salmon"
+    },
+    {
+      "name": "Squid",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "squid"
+    },
+    {
+      "name": "Bee",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bee"
+    },
+    {
+      "name": "Turtle",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "turtle"
+    },
+    {
+      "name": "Wolf",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wolf"
+    },
+    {
+      "name": "Cat",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cat"
+    },
+    {
+      "name": "Llama",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "llama"
+    },
+    {
+      "name": "Donkey",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "donkey"
+    },
+    {
+      "name": "Mule",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mule"
+    },
+    {
+      "name": "Horse",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "horse"
+    },
+    {
+      "name": "Parrot",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "parrot"
     }
   ],
   "variable_elements": [],
